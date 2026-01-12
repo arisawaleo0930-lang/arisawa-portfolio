@@ -34,6 +34,9 @@ main {
 	margin-bottom: 40px;
 	padding-bottom: 0%;
 }
+img {
+	max-width: 50%;
+}
 
 footer {
 	font-size: 24px;
@@ -42,4 +45,5 @@ footer {
 	background-color: #AFDDFF;
 	text-align: center;
 }
+
 
