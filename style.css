@@ -1,0 +1,20 @@
+﻿@charset "UTF-8";
+
+/* 共通部分 */
+*{
+	margin: 8px;
+	padding: 0px;
+}
+
+h1 {
+	font-size: 40px;
+	color: #a47864;
+	background-color: #AFDDFF
+}
+footer{
+	font-size: 40px;
+   	color: #a47864;
+	background-color: #AFDDFF;
+}
+
+
