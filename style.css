@@ -16,7 +16,7 @@ h1 {
 	background-color: #F4C6CD
 }
 img {
-	img-size: 46%;
+	width: 46%;
 }
 ul {
 	list-style: none;
@@ -58,5 +58,6 @@ footer {
 	background-color: #F4C6CD;
 	text-align: center;
 }
+
 
 
