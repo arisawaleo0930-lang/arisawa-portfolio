@@ -15,6 +15,9 @@ h1 {
 	color: #a47864;
 	background-color: #F4C6CD
 }
+img {
+	img-size: 46%;
+}
 ul {
 	list-style: none;
 	display: flex;
@@ -55,4 +58,5 @@ footer {
 	background-color: #F4C6CD;
 	text-align: center;
 }
+
 
